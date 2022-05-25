@@ -49,8 +49,6 @@ const NewExpenseForm = () => {
         // })     
    }
 
-
-
    const submitHandler = (e) => {
     e.preventDefault()
 
